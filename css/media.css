@@ -274,6 +274,7 @@
    justify-content: center;
    align-items: center;
     color:white;
+    cursor: pointer;
     font-size: 14px;
     display: inline-block;
     transition: all 0.5s;
